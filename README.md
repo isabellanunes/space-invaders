@@ -25,6 +25,9 @@
 
 This is a Space Invaders clone game that I developed for my Object Oriented class at the university.
 
+## Status
+In Progress 🚧
+
 ## Run
 
 Download and run the .jar file. It's required to hava Java JRE 8.
