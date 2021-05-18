@@ -18,13 +18,13 @@
 <br />
 
 ## Technologies and requirements
-- Java 8
+- Java 11
 
 ## Project
 This is a Space Invaders clone game that I developed for my Object Oriented class at the university.
 
 ## Run
-Download and run the .jar file. It's required to hava Java JRE 8.
+Download and run the .jar file.
 
 ## Status
 In Progress 🚧
