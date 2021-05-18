@@ -12,26 +12,22 @@
 <br />
 
 <p align="center">
-    <img src=".readme/screenshot.png" width = "400px" />
+    <img src=".readme/image01.png" width = "400px" />
 </p>
 
 <br />
 
-## Technologies
-
+## Technologies and requirements
 - Java 8
 
 ## Project
-
 This is a Space Invaders clone game that I developed for my Object Oriented class at the university.
+
+## Run
+Download and run the .jar file. It's required to hava Java JRE 8.
 
 ## Status
 In Progress 🚧
 
-## Run
-
-Download and run the .jar file. It's required to hava Java JRE 8.
-
 ## License
-
 This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
